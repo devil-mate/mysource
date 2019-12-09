@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jl/mysource/ros&gazebo/robot_pose_ekf-master/cmake-build-debug/devel/setup.sh
