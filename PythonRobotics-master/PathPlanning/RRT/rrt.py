@@ -153,7 +153,7 @@ class RRT:
         plt.axis([-2, 15, -2, 15])
         plt.grid(True)
         plt.pause(0.01)
-
+    # 静态函数修饰方式
     @staticmethod
     def get_nearest_node_index(node_list, rnd_node):
         dlist = [(node.x - rnd_node.x) ** 2 + (node.y - rnd_node.y)
@@ -198,8 +198,9 @@ def main(gx=5.0, gy=10.0):
     # Set Initial parameters
     rrt = RRT(start=[0, 0],
               goal=[gx, gy],
-              rand_area=[-2, 15],
-              obstacle_list=obstacleList)
+              obstacle_list=obstacleList,
+              rand_area=[-2, 15]
+              )
     path = rrt.planning(animation=show_animation)
 
     if path is None:

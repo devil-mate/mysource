@@ -8,7 +8,7 @@ author: Atsushi Sakai(@Atsushi_twi)
 See Wikipedia article (https://en.wikipedia.org/wiki/A*_search_algorithm)
 
 """
-#!/usr/bin/env python3.6
+# !/usr/bin/env python3.6
 import math
 
 import matplotlib.pyplot as plt
