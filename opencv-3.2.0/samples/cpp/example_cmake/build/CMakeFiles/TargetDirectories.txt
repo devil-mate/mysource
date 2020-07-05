@@ -1,3 +1,0 @@
-/home/jl/mySource/opencv-3.2.0/samples/cpp/example_cmake/build/CMakeFiles/edit_cache.dir
-/home/jl/mySource/opencv-3.2.0/samples/cpp/example_cmake/build/CMakeFiles/rebuild_cache.dir
-/home/jl/mySource/opencv-3.2.0/samples/cpp/example_cmake/build/CMakeFiles/opencv_example.dir
