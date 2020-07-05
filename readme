@@ -1,0 +1,7 @@
+存放一些源代码，学习参考  third_source第三方/博客上 各种算法实现 参考源码,
+ 不存放github上已有的包，尤其是ros包不需要版本管理：直接clone到工作空间下，也不需要做版本管理;对ros包等git上的包源码分析/修改的放在mysourceTest
+
+
+dlib笑脸识别 https://www.cnblogs.com/AdaminXie/p/8367348.html
+
+
